@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Rahul 👋
 
-<!--
-**rahulk2011/rahulk2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer** | Passionate about coding & technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages / Web:** HTML5, CSS3
+- **Tools & Editors:** VS Code, Git, GitHub
+- **Currently Learning:** Web Development & Programming
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulk2011&show_icons=true&theme=radical" alt="Rahul's Stats" />
+</div>
+
+---
+
+📫 **Connect with me:**
+- GitHub: [@rahulk2011](https://github.com/rahulk2011)
+- 

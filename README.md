@@ -4,20 +4,24 @@
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages / Web:** HTML5, CSS3
-- **Tools & Editors:** VS Code, Git, GitHub
-- **Currently Learning:** Web Development & Programming
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulk2011&show_icons=true&theme=radical" alt="Rahul's Stats" />
-</div>
+### 📌 About Me
+- 🎓 **Student** learning computer science & programming
+- 💻 Focusing on Web Development (HTML/CSS)
+- ⚡ **Goal:** Building awesome real-world projects
 
 ---
 
-📫 **Connect with me:**
-- GitHub: [@rahulk2011](https://github.com/rahulk2011)
+### 🌐 Connect With Me
+- 🐙 **GitHub:** [@rahulk2011](https://github.com/rahulk2011)
 - 
